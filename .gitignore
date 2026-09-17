@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+*.tsbuildinfo
+.vercel
+
+# Configuración local de Claude Code (permisos por máquina)
+.claude/settings.local.json
